@@ -1,0 +1,81 @@
+delay,bandwidth,filesize,transmission_ms,error
+0ms,1Mbps,10K,1,
+0ms,1Mbps,100K,9,
+0ms,1Mbps,1M,17,
+0ms,1Mbps,10M,170,
+0ms,1Mbps,20M,340,
+0ms,10Mbps,10K,1,
+0ms,10Mbps,100K,1,
+0ms,10Mbps,1M,13,
+0ms,10Mbps,10M,171,
+0ms,10Mbps,20M,350,
+0ms,25Mbps,10K,1,
+0ms,25Mbps,100K,2,
+0ms,25Mbps,1M,29,
+0ms,25Mbps,10M,195,
+0ms,25Mbps,20M,323,
+0ms,50Mbps,10K,2,
+0ms,50Mbps,100K,4,
+0ms,50Mbps,1M,12,
+0ms,50Mbps,10M,160,
+0ms,50Mbps,20M,388,
+15ms,1Mbps,10K,2,
+15ms,1Mbps,100K,24,
+15ms,1Mbps,1M,114,
+15ms,1Mbps,10M,293,
+15ms,1Mbps,20M,736,
+15ms,10Mbps,10K,1,
+15ms,10Mbps,100K,25,
+15ms,10Mbps,1M,119,
+15ms,10Mbps,10M,399,
+15ms,10Mbps,20M,497,
+15ms,25Mbps,10K,2,
+15ms,25Mbps,100K,24,
+15ms,25Mbps,1M,118,
+15ms,25Mbps,10M,352,
+15ms,25Mbps,20M,727,
+15ms,50Mbps,10K,1,
+15ms,50Mbps,100K,24,
+15ms,50Mbps,1M,116,
+15ms,50Mbps,10M,298,
+15ms,50Mbps,20M,544,
+30ms,1Mbps,10K,0,
+30ms,1Mbps,100K,47,
+30ms,1Mbps,1M,220,
+30ms,1Mbps,10M,465,
+30ms,1Mbps,20M,718,
+30ms,10Mbps,10K,1,
+30ms,10Mbps,100K,42,
+30ms,10Mbps,1M,221,
+30ms,10Mbps,10M,721,
+30ms,10Mbps,20M,751,
+30ms,25Mbps,10K,1,
+30ms,25Mbps,100K,44,
+30ms,25Mbps,1M,214,
+30ms,25Mbps,10M,480,
+30ms,25Mbps,20M,888,
+30ms,50Mbps,10K,1,
+30ms,50Mbps,100K,45,
+30ms,50Mbps,1M,217,
+30ms,50Mbps,10M,564,
+30ms,50Mbps,20M,834,
+60ms,1Mbps,10K,0,
+60ms,1Mbps,100K,,EXIT141: (no output)
+60ms,1Mbps,1M,,EXIT141: (no output)
+60ms,1Mbps,10M,,EXIT141: (no output)
+60ms,1Mbps,20M,,EXIT141: (no output)
+60ms,10Mbps,10K,,EXIT141: (no output)
+60ms,10Mbps,100K,,EXIT141: (no output)
+60ms,10Mbps,1M,,EXIT141: (no output)
+60ms,10Mbps,10M,,EXIT141: (no output)
+60ms,10Mbps,20M,,EXIT141: (no output)
+60ms,25Mbps,10K,,EXIT141: (no output)
+60ms,25Mbps,100K,,EXIT141: (no output)
+60ms,25Mbps,1M,,EXIT141: (no output)
+60ms,25Mbps,10M,,EXIT141: (no output)
+60ms,25Mbps,20M,,EXIT141: (no output)
+60ms,50Mbps,10K,,EXIT141: (no output)
+60ms,50Mbps,100K,,EXIT141: (no output)
+60ms,50Mbps,1M,,EXIT141: (no output)
+60ms,50Mbps,10M,,EXIT141: (no output)
+60ms,50Mbps,20M,,EXIT141: (no output)
